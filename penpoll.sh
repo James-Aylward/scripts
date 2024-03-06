@@ -7,9 +7,10 @@ pendone=false
 eraserdone=false
 screendone=false
 
-while [ "$pendone" = false ]    || 
-      [ "$eraserdone" = false ] || 
-      [ "$screendone" = false ]
+#while [ "$pendone" = false ]    || 
+#      [ "$eraserdone" = false ] || 
+#      [ "$screendone" = false ]
+while true
 do
 
     if [ "$pendone" = false ] && 
