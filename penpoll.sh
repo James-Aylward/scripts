@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # The purpose of this script is to poll xinput to map pen, eraser and touch
 # devices to the laptop screen. This fixes the bug of having these inputs map
 # across monitors, which distorts everything and makes it unusable.
